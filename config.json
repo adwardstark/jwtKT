@@ -1,0 +1,10 @@
+{
+  "header": {
+    "app_id": "jwtKt",
+    "typ": "JWT"
+  },
+  "body": {
+    "example.device_id": "xf00ee502af80136aa7b06acc70004b493334",
+    "example.port": 8080
+  }
+}
